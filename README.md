@@ -11,8 +11,6 @@ Este é um site desenvolvido em **HTML e CSS** dedicado a Veigh. Ele apresenta i
 - **Frases icônicas**: Destaques das letras que marcaram sua carreira.
 - **Estilização moderna**: Página estilizada com CSS para proporcionar uma boa experiência ao usuário.
 
-## 🖼️ Capturas de Tela
-📌 *Adicione aqui prints do seu site para demonstrar o design e funcionamento.*
 
 ## 🛠️ Tecnologias Utilizadas
 - **HTML5**
@@ -43,4 +41,4 @@ Este é um site desenvolvido em **HTML e CSS** dedicado a Veigh. Ele apresenta i
 ## 📌 Contato
 Caso tenha alguma dúvida ou sugestão, entre em contato!
 
-💻 Feito com ❤️ por **[Seu Nome]**
+💻 Feito com ❤️ por **[Felipe Cintra]**
